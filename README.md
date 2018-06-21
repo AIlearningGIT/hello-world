@@ -1,4 +1,3 @@
 # hello-world
-the first repository created
-i want to add some extra words here
-thanks for watching
+Trust me i am not a robot; how do i proof it? here is why:
+i am not goint to tell you, hohoho
